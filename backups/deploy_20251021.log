@@ -1,0 +1,309 @@
+🚀 Starting deployment script...
+Enter Git Repository URL (e.g. https://github.com/user/repo.git): Enter Personal Access Token (PAT): Enter Branch Name [default: main]: Enter Server Username: Enter Server IP Address: Enter SSH Key Path (e.g. ~/.ssh/id_rsa): Enter Application Port: ✅ All inputs collected successfully.
+-------------------------------------
+GIT_URL: https://github.com/owolabigrace/hng-devops-stage1
+BRANCH: main
+SERVER: ubuntu@98.91.249.14
+APP_PORT: 3000
+-------------------------------------
+📥 Cloning repository...
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+🚀 Starting deployment script...
+Enter Git Repository URL (e.g. https://github.com/user/repo.git): Enter Personal Access Token (PAT): Enter Branch Name [default: main]: Enter Server Username: Enter Server IP Address: Enter SSH Key Path (e.g. ~/.ssh/id_rsa): Enter Application Port: ✅ All inputs collected successfully.
+-------------------------------------
+GIT_URL: https://github.com/owolabigrace/hng-devops-stage1
+BRANCH: main
+SERVER: ubuntu@98.91.249.14
+APP_PORT: 3000
+-------------------------------------
+📥 Cloning repository...
+fatal: destination path 'hng-devops-stage1' already exists and is not an empty directory.
+❌ Error occurred at line 47. Check deploy_20251021.log for details.
+🚀 Starting deployment script...
+Enter Git Repository URL (e.g. https://github.com/user/repo.git): Enter Personal Access Token (PAT): Enter Branch Name [default: main]: Enter Server Username: Enter Server IP Address: Enter SSH Key Path (e.g. ~/.ssh/id_rsa): Enter Application Port: ✅ All inputs collected successfully.
+-------------------------------------
+GIT_URL: https://github.com/owolabigrace/hng-devops-stage1
+BRANCH: main
+SERVER: ubuntu@98.91.249.14
+APP_PORT: 3000
+-------------------------------------
+📥 Cloning repository...
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+
+🔐 Testing SSH connection to remote server...
+usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface] [-b bind_address]
+           [-c cipher_spec] [-D [bind_address:]port] [-E log_file]
+           [-e escape_char] [-F configfile] [-I pkcs11] [-i identity_file]
+           [-J destination] [-L address] [-l login_name] [-m mac_spec]
+           [-O ctl_cmd] [-o option] [-P tag] [-p port] [-R address]
+           [-S ctl_path] [-W host:port] [-w local_tun[:remote_tun]]
+           destination [command [argument ...]]
+       ssh [-Q query_option]
+❌ Unable to connect to 98.91.249.14 as 
+🚀 Starting deployment script...
+Enter Git Repository URL (e.g. https://github.com/user/repo.git): Enter Personal Access Token (PAT): Enter Branch Name [default: main]: Enter Server Username: Enter Server IP Address: Enter SSH Key Path (e.g. ~/.ssh/id_rsa): Enter Application Port: ✅ All inputs collected successfully.
+-------------------------------------
+GIT_URL: https://github.com/owolabigrace/hng-devops-stage1
+BRANCH: main
+SERVER: ubuntu@98.91.249.14
+APP_PORT: 3000
+-------------------------------------
+⚠ Directory already exists. Removing old version...
+📥 Cloning repository...
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+
+🔐 Testing SSH connection to remote server...
+usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface] [-b bind_address]
+           [-c cipher_spec] [-D [bind_address:]port] [-E log_file]
+           [-e escape_char] [-F configfile] [-I pkcs11] [-i identity_file]
+           [-J destination] [-L address] [-l login_name] [-m mac_spec]
+           [-O ctl_cmd] [-o option] [-P tag] [-p port] [-R address]
+           [-S ctl_path] [-W host:port] [-w local_tun[:remote_tun]]
+           destination [command [argument ...]]
+       ssh [-Q query_option]
+❌ Unable to connect to 98.91.249.14 as 
+🚀 Starting deployment script...
+Enter Git Repository URL (e.g. https://github.com/user/repo.git): Enter Personal Access Token (PAT): Enter Branch Name [default: main]: Enter Server Username: Enter Server IP Address: Enter SSH Key Path (e.g. ~/.ssh/id_rsa): Enter Application Port: ✅ All inputs collected successfully.
+-------------------------------------
+GIT_URL: https://github.com/owolabigrace/hng-devops-stage1
+BRANCH: main
+SERVER: ubuntu@98.91.249.14
+APP_PORT: 3000
+-------------------------------------
+⚠ Directory already exists. Removing old version...
+📥 Cloning repository...
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+
+🔐 Testing SSH connection to remote server...
+Warning: Identity file /c/Users/grace/Downloads/HNGI.pem-PATH not accessible: No such file or directory.
+usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface] [-b bind_address]
+           [-c cipher_spec] [-D [bind_address:]port] [-E log_file]
+           [-e escape_char] [-F configfile] [-I pkcs11] [-i identity_file]
+           [-J destination] [-L address] [-l login_name] [-m mac_spec]
+           [-O ctl_cmd] [-o option] [-P tag] [-p port] [-R address]
+           [-S ctl_path] [-W host:port] [-w local_tun[:remote_tun]]
+           destination [command [argument ...]]
+       ssh [-Q query_option]
+❌ Unable to connect to 98.91.249.14 as 
+🚀 Starting deployment script...
+Enter Git Repository URL (e.g. https://github.com/user/repo.git): Enter Personal Access Token (PAT): Enter Branch Name [default: main]: Enter Server Username: Enter Server IP Address: Enter SSH Key Path (e.g. ~/.ssh/id_rsa): Enter Application Port: ✅ All inputs collected successfully.
+-------------------------------------
+GIT_URL: https://github.com/owolabigrace/hng-devops-stage1
+BRANCH: main
+SERVER: ubuntu@98.91.249.14
+APP_PORT: 3000
+-------------------------------------
+⚠ Directory already exists. Removing old version...
+📥 Cloning repository...
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+
+🔐 Testing SSH connection to remote server...
+Warning: Identity file  not accessible: No such file or directory.
+usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface] [-b bind_address]
+           [-c cipher_spec] [-D [bind_address:]port] [-E log_file]
+           [-e escape_char] [-F configfile] [-I pkcs11] [-i identity_file]
+           [-J destination] [-L address] [-l login_name] [-m mac_spec]
+           [-O ctl_cmd] [-o option] [-P tag] [-p port] [-R address]
+           [-S ctl_path] [-W host:port] [-w local_tun[:remote_tun]]
+           destination [command [argument ...]]
+       ssh [-Q query_option]
+❌ Unable to connect to 98.91.249.14 as 
+🚀 Starting deployment script...
+Enter Git Repository URL (e.g. https://github.com/user/repo.git): Enter Personal Access Token (PAT): Enter Branch Name [default: main]: Enter Server Username: Enter Server IP Address: Enter SSH Key Path (e.g. ~/.ssh/id_rsa): Enter Application Port: ✅ All inputs collected successfully.
+-------------------------------------
+GIT_URL: https://github.com/owolabigrace/hng-devops-stage1
+BRANCH: main
+SERVER: ubuntu@98.91.249.14
+APP_PORT: 3000
+-------------------------------------
+⚠ Directory already exists. Removing old version...
+📥 Cloning repository...
+Cloning into 'hng-devops-stage1'...
+fatal: unable to access 'https://github.com/owolabigrace/hng-devops-stage1/': Failed to connect to github.com port 443 after 21171 ms: Could not connect to server
+❌ Error occurred at line 52. Check deploy_20251021.log for details.
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning repository...
+fatal: No directory name could be guessed.
+Please specify a directory on the command line
+❌ Error occurred at line 54. Check deploy_20251021.log for details.
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+Cloning into 'hng-devops-stage1'...
+fatal: unable to access 'https://github.com/owolabigrace/hng-devops-stage1/': URL rejected: Malformed input to a URL function
+❌ Git clone failed
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+✅ Repository cloned succesfukky and swutched to branch: main
+🔐 Testing SSH connection to remote server...
+Checking key file: "C:UsersgraceDownloadsHNGI.pem"
+ls: cannot access '"C:UsersgraceDownloadsHNGI.pem"': No such file or directory
+❌ Error occurred at line 74. Check deploy_20251021.log for details.
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+⚠ Old repository folder found. Removing.....
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+error: pathspec '🚀 Starting deployment script...' did not match any file(s) known to git
+❌ Error occurred at line 65. Check deploy_20251021.log for details.
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+⚠ Old repository folder found. Removing.....
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+✅ Repository cloned succesfully and swutched to branch: main
+🔐 Testing SSH connection to remote server...
+Checking key file: /c/Users/grace/.ssh/HNGI.pem
+-rw-r--r-- 1 grace 197610 1678 Oct 17 07:54 /c/Users/grace/.ssh/HNGI.pem
+❌ SSH key file not found at 
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+⚠ Old repository folder found. Removing.....
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+✅ Repository cloned succesfully and swutched to branch: main
+./deploy.sh: line 90: unexpected EOF while looking for matching `)'
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+⚠ Old repository folder found. Removing.....
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+✅ Repository cloned succesfully and swutched to branch: main
+./deploy.sh: line 90: unexpected EOF while looking for matching `)'
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+⚠ Old repository folder found. Removing.....
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+✅ Repository cloned succesfully and swutched to branch: main
+./deploy.sh: line 90: unexpected EOF while looking for matching `)'
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+⚠ Old repository folder found. Removing.....
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+✅ Repository cloned succesfully and swutched to branch: main
+Checking SSH connection to @...
+Bad port ''
+SSH connection failed. Exiting.
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+⚠ Old repository folder found. Removing.....
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+✅ Repository cloned succesfully and swutched to branch: main
+./deploy.sh: line 84: syntax error near unexpected token `newline'
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+⚠ Old repository folder found. Removing.....
+Cloning into 'hng-devops-stage1'...
+fatal: unable to access 'https://?https://github.com/owolabigrace/hng-devops-stage1/': URL rejected: Malformed input to a URL function
+❌ Git clone failed
