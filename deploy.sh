@@ -1,23 +1,18 @@
 #!/bin/bash
-set -e  # stop on first error
+set -e  
 trap 'echo "Error occured at line $LINENO"; exit 1' ERR
 LOG_FILE="deploy_$(date +%Y%m%d).log"
 exec > >(tee -a "$LOG_FILE") 2>&1
 echo "=== HNG DevOps Stage 1 Automated Deployment Script ==="
 
-# 1. Collect user inputs
-
-# Prompt for GitHub URL
 GIT_URL="https://github.com/owolabigrace/hng-devops-stage1.git"
 
 echo "Clonign repository from $GIT_URL...."
 rm -rf app
 git clone "$GIT_URL" app
 
-# Trim spaces manually (safer than tr)
 GIT_URL=$(echo "$GIT_URL" | xargs)
 
-# Validate
 if [[ -z "$GIT_URL" ]]; then
   echo "Error: GitHub URL cannot be empty."
   exit 1
@@ -37,7 +32,6 @@ if ! [[ "$app_port" =~ ^[0-9]+$ ]];then
      exit 1
 fi
 
-# 2. Git clone operations
 echo "Cloning repository..."
 if [ -d "app" ]; then
     echo "Old repo exists, removing..."
@@ -52,7 +46,6 @@ if [ ! -f Dockerfile ] && [ ! -f docker-compose.yml ]; then
     exit 1
 fi
 
-# 3. SSH connection test
 echo "Testing SSH connection..."
 ssh_key_path=$(eval echo "$ssh_key_path")
 if [ ! -f "$ssh_key_path" ]; then
@@ -65,7 +58,6 @@ ssh -i "$ssh_key_path" -o BatchMode=yes -o ConnectTimeout=5 "$username@$server_i
     exit 1
 }
 
-# 4. Prepare remote environment
 
 ssh -i "$ssh_key_path" "$username@$server_ip" <<EOF
 set -e
@@ -92,7 +84,6 @@ sudo systemctl enable nginx
 sudo systemctl start nginx
 EOF
 
-# 5. Deploy Docker app
 ssh -i "$ssh_key_path" "$username@$server_ip" <<EOF
 rm -rf ~/app || true
 mkdir -p ~/app
@@ -108,8 +99,6 @@ fi
 docker build -t myapp . | tee build.log
 docker run -d -p $app_port:3000 --name myapp myapp
 EOF
-
-# 6. Nginx reverse proxy
 
 ssh -i "$ssh_key_path" "$username@$server_ip" <<EOF
 sudo cp /etc/nginx/sites-available/default /etc/nginx/sites-available/default.bak || true
