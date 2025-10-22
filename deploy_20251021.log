@@ -1,0 +1,687 @@
+🚀 Starting deployment script...
+Enter Git Repository URL (e.g. https://github.com/user/repo.git): Enter Personal Access Token (PAT): Enter Branch Name [default: main]: Enter Server Username: Enter Server IP Address: Enter SSH Key Path (e.g. ~/.ssh/id_rsa): Enter Application Port: ✅ All inputs collected successfully.
+-------------------------------------
+GIT_URL: https://github.com/owolabigrace/hng-devops-stage1
+BRANCH: main
+SERVER: ubuntu@98.91.249.14
+APP_PORT: 3000
+-------------------------------------
+📥 Cloning repository...
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+🚀 Starting deployment script...
+Enter Git Repository URL (e.g. https://github.com/user/repo.git): Enter Personal Access Token (PAT): Enter Branch Name [default: main]: Enter Server Username: Enter Server IP Address: Enter SSH Key Path (e.g. ~/.ssh/id_rsa): Enter Application Port: ✅ All inputs collected successfully.
+-------------------------------------
+GIT_URL: https://github.com/owolabigrace/hng-devops-stage1
+BRANCH: main
+SERVER: ubuntu@98.91.249.14
+APP_PORT: 3000
+-------------------------------------
+📥 Cloning repository...
+fatal: destination path 'hng-devops-stage1' already exists and is not an empty directory.
+❌ Error occurred at line 47. Check deploy_20251021.log for details.
+🚀 Starting deployment script...
+Enter Git Repository URL (e.g. https://github.com/user/repo.git): Enter Personal Access Token (PAT): Enter Branch Name [default: main]: Enter Server Username: Enter Server IP Address: Enter SSH Key Path (e.g. ~/.ssh/id_rsa): Enter Application Port: ✅ All inputs collected successfully.
+-------------------------------------
+GIT_URL: https://github.com/owolabigrace/hng-devops-stage1
+BRANCH: main
+SERVER: ubuntu@98.91.249.14
+APP_PORT: 3000
+-------------------------------------
+📥 Cloning repository...
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+
+🔐 Testing SSH connection to remote server...
+usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface] [-b bind_address]
+           [-c cipher_spec] [-D [bind_address:]port] [-E log_file]
+           [-e escape_char] [-F configfile] [-I pkcs11] [-i identity_file]
+           [-J destination] [-L address] [-l login_name] [-m mac_spec]
+           [-O ctl_cmd] [-o option] [-P tag] [-p port] [-R address]
+           [-S ctl_path] [-W host:port] [-w local_tun[:remote_tun]]
+           destination [command [argument ...]]
+       ssh [-Q query_option]
+❌ Unable to connect to 98.91.249.14 as 
+🚀 Starting deployment script...
+Enter Git Repository URL (e.g. https://github.com/user/repo.git): Enter Personal Access Token (PAT): Enter Branch Name [default: main]: Enter Server Username: Enter Server IP Address: Enter SSH Key Path (e.g. ~/.ssh/id_rsa): Enter Application Port: ✅ All inputs collected successfully.
+-------------------------------------
+GIT_URL: https://github.com/owolabigrace/hng-devops-stage1
+BRANCH: main
+SERVER: ubuntu@98.91.249.14
+APP_PORT: 3000
+-------------------------------------
+⚠ Directory already exists. Removing old version...
+📥 Cloning repository...
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+
+🔐 Testing SSH connection to remote server...
+usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface] [-b bind_address]
+           [-c cipher_spec] [-D [bind_address:]port] [-E log_file]
+           [-e escape_char] [-F configfile] [-I pkcs11] [-i identity_file]
+           [-J destination] [-L address] [-l login_name] [-m mac_spec]
+           [-O ctl_cmd] [-o option] [-P tag] [-p port] [-R address]
+           [-S ctl_path] [-W host:port] [-w local_tun[:remote_tun]]
+           destination [command [argument ...]]
+       ssh [-Q query_option]
+❌ Unable to connect to 98.91.249.14 as 
+🚀 Starting deployment script...
+Enter Git Repository URL (e.g. https://github.com/user/repo.git): Enter Personal Access Token (PAT): Enter Branch Name [default: main]: Enter Server Username: Enter Server IP Address: Enter SSH Key Path (e.g. ~/.ssh/id_rsa): Enter Application Port: ✅ All inputs collected successfully.
+-------------------------------------
+GIT_URL: https://github.com/owolabigrace/hng-devops-stage1
+BRANCH: main
+SERVER: ubuntu@98.91.249.14
+APP_PORT: 3000
+-------------------------------------
+⚠ Directory already exists. Removing old version...
+📥 Cloning repository...
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+
+🔐 Testing SSH connection to remote server...
+Warning: Identity file /c/Users/grace/Downloads/HNGI.pem-PATH not accessible: No such file or directory.
+usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface] [-b bind_address]
+           [-c cipher_spec] [-D [bind_address:]port] [-E log_file]
+           [-e escape_char] [-F configfile] [-I pkcs11] [-i identity_file]
+           [-J destination] [-L address] [-l login_name] [-m mac_spec]
+           [-O ctl_cmd] [-o option] [-P tag] [-p port] [-R address]
+           [-S ctl_path] [-W host:port] [-w local_tun[:remote_tun]]
+           destination [command [argument ...]]
+       ssh [-Q query_option]
+❌ Unable to connect to 98.91.249.14 as 
+🚀 Starting deployment script...
+Enter Git Repository URL (e.g. https://github.com/user/repo.git): Enter Personal Access Token (PAT): Enter Branch Name [default: main]: Enter Server Username: Enter Server IP Address: Enter SSH Key Path (e.g. ~/.ssh/id_rsa): Enter Application Port: ✅ All inputs collected successfully.
+-------------------------------------
+GIT_URL: https://github.com/owolabigrace/hng-devops-stage1
+BRANCH: main
+SERVER: ubuntu@98.91.249.14
+APP_PORT: 3000
+-------------------------------------
+⚠ Directory already exists. Removing old version...
+📥 Cloning repository...
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+
+🔐 Testing SSH connection to remote server...
+Warning: Identity file  not accessible: No such file or directory.
+usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface] [-b bind_address]
+           [-c cipher_spec] [-D [bind_address:]port] [-E log_file]
+           [-e escape_char] [-F configfile] [-I pkcs11] [-i identity_file]
+           [-J destination] [-L address] [-l login_name] [-m mac_spec]
+           [-O ctl_cmd] [-o option] [-P tag] [-p port] [-R address]
+           [-S ctl_path] [-W host:port] [-w local_tun[:remote_tun]]
+           destination [command [argument ...]]
+       ssh [-Q query_option]
+❌ Unable to connect to 98.91.249.14 as 
+🚀 Starting deployment script...
+Enter Git Repository URL (e.g. https://github.com/user/repo.git): Enter Personal Access Token (PAT): Enter Branch Name [default: main]: Enter Server Username: Enter Server IP Address: Enter SSH Key Path (e.g. ~/.ssh/id_rsa): Enter Application Port: ✅ All inputs collected successfully.
+-------------------------------------
+GIT_URL: https://github.com/owolabigrace/hng-devops-stage1
+BRANCH: main
+SERVER: ubuntu@98.91.249.14
+APP_PORT: 3000
+-------------------------------------
+⚠ Directory already exists. Removing old version...
+📥 Cloning repository...
+Cloning into 'hng-devops-stage1'...
+fatal: unable to access 'https://github.com/owolabigrace/hng-devops-stage1/': Failed to connect to github.com port 443 after 21171 ms: Could not connect to server
+❌ Error occurred at line 52. Check deploy_20251021.log for details.
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning repository...
+fatal: No directory name could be guessed.
+Please specify a directory on the command line
+❌ Error occurred at line 54. Check deploy_20251021.log for details.
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+Cloning into 'hng-devops-stage1'...
+fatal: unable to access 'https://github.com/owolabigrace/hng-devops-stage1/': URL rejected: Malformed input to a URL function
+❌ Git clone failed
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+✅ Repository cloned succesfukky and swutched to branch: main
+🔐 Testing SSH connection to remote server...
+Checking key file: "C:UsersgraceDownloadsHNGI.pem"
+ls: cannot access '"C:UsersgraceDownloadsHNGI.pem"': No such file or directory
+❌ Error occurred at line 74. Check deploy_20251021.log for details.
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+⚠ Old repository folder found. Removing.....
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+error: pathspec '🚀 Starting deployment script...' did not match any file(s) known to git
+❌ Error occurred at line 65. Check deploy_20251021.log for details.
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+⚠ Old repository folder found. Removing.....
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+✅ Repository cloned succesfully and swutched to branch: main
+🔐 Testing SSH connection to remote server...
+Checking key file: /c/Users/grace/.ssh/HNGI.pem
+-rw-r--r-- 1 grace 197610 1678 Oct 17 07:54 /c/Users/grace/.ssh/HNGI.pem
+❌ SSH key file not found at 
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+⚠ Old repository folder found. Removing.....
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+✅ Repository cloned succesfully and swutched to branch: main
+./deploy.sh: line 90: unexpected EOF while looking for matching `)'
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+⚠ Old repository folder found. Removing.....
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+✅ Repository cloned succesfully and swutched to branch: main
+./deploy.sh: line 90: unexpected EOF while looking for matching `)'
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+⚠ Old repository folder found. Removing.....
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+✅ Repository cloned succesfully and swutched to branch: main
+./deploy.sh: line 90: unexpected EOF while looking for matching `)'
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+⚠ Old repository folder found. Removing.....
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+✅ Repository cloned succesfully and swutched to branch: main
+Checking SSH connection to @...
+Bad port ''
+SSH connection failed. Exiting.
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+⚠ Old repository folder found. Removing.....
+Cloning into 'hng-devops-stage1'...
+✅ Repository cloned and switched to directory: hng-devops-stage1
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+✅ Repository cloned succesfully and swutched to branch: main
+./deploy.sh: line 84: syntax error near unexpected token `newline'
+🚀 Starting deployment script...
+Enter your GitHub repository URL:
+Enter your GitHub Personal Access Token:
+Enter your branch name (press Enter for main):
+Enter your server username:
+Enter your server IP address:
+Enter path to your SSH key file:
+Enter your application port (internal container port):
+✅ All inputs collected succcessfully.
+📥 Cloning Repository...
+⚠ Old repository folder found. Removing.....
+Cloning into 'hng-devops-stage1'...
+fatal: unable to access 'https://?https://github.com/owolabigrace/hng-devops-stage1/': URL rejected: Malformed input to a URL function
+❌ Git clone failed
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Enter GitHub repo URL: Enter your GitHub Personal Access Token: Enter branch name (default: main): Enter remote server username: Enter remote server IP: Enter path to SSH key file: Enter application port: Cloning repository...
+Cloning into 'app'...
+No Dockerfile found, exiting.
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Enter GitHub repo URL: Enter your GitHub Personal Access Token: Enter branch name (default: main): Enter remote server username: Enter remote server IP: Enter path to SSH key file: Enter application port: Cloning repository...
+Old repo exists, removing...
+Cloning into 'app'...
+fatal: unable to access 'https://github.com/owolabigrace/hng-devops-stage1/': URL rejected: Malformed input to a URL function
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Enter GitHub repo URL: Enter your GitHub Personal Access Token: Enter branch name (default: main): Enter remote server username: Enter remote server IP: Enter path to SSH key file: Enter application port: Cloning repository...
+Cloning into 'app'...
+fatal: unable to access 'https://?[2~?[2~ https://github.com/owolabigrace/hng-devops-stage1.git/': URL rejected: Malformed input to a URL function
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Enter your GitHub repo URL:
+tr: invalid character class ‘spaces’
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Enter your GitHub repo URL:
+Cloning into 'app'...
+Enter your GitHub Personal Access Token: Enter branch name (default: main): Enter remote server username: Enter remote server IP: Enter path to SSH key file: Enter application port: Cloning repository...
+Old repo exists, removing...
+Cloning into 'app'...
+fatal: unable to access 'https:///': URL rejected: No host part in the URL
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Enter your GitHub repository URL (e.g. https://github.com/owolabigrace/hng-devops-stage1.git):
+Cloning repository...
+Using URL: https://github.com/owolabigrace/hng-devops-stage1.git
+Cloning into 'app'...
+Enter your GitHub Personal Access Token: Enter branch name (default: main): Enter remote server username: Enter remote server IP: Enter path to SSH key file: Enter application port: Cloning repository...
+Old repo exists, removing...
+Cloning into 'app'...
+fatal: unable to access 'https:///': URL rejected: No host part in the URL
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Enter your GitHub repository URL (e.g. https://github.com/owolabigrace/hng-devops-stage1.git):
+Cloning repository...
+Using URL: https://github.com/owolabigrace/hng-devops-stage1
+Cloning into 'app'...
+Enter your GitHub Personal Access Token: Enter branch name (default: main): Enter remote server username: Enter remote server IP: Enter path to SSH key file: Enter application port: Cloning repository...
+Old repo exists, removing...
+Cloning into 'app'...
+fatal: unable to access 'https:///': URL rejected: No host part in the URL
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Enter your GitHub repository URL (e.g. https://github.com/owolabigrace/hng-devops-stage1.git): Cloning repository...
+Using URL: https://github.com/owolabigrace/hng-devops-stage1.git
+Cloning into 'app'...
+Enter your GitHub Personal Access Token: Enter branch name (default: main): Enter remote server username: Enter remote server IP: Enter path to SSH key file: Enter application port: Cloning repository...
+Old repo exists, removing...
+Cloning into 'app'...
+fatal: unable to access 'https:///': URL rejected: No host part in the URL
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Clonign repository from https://github.com/owolabigrace/hng-devops-stage1.git....
+Cloning into 'app'...
+Cloning repository...
+Using URL: https://github.com/owolabigrace/hng-devops-stage1.git
+fatal: destination path 'app' already exists and is not an empty directory.
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Clonign repository from https://github.com/owolabigrace/hng-devops-stage1.git....
+Cloning into 'app'...
+Cloning repository...
+Using URL: https://github.com/owolabigrace/hng-devops-stage1.git
+fatal: destination path 'app' already exists and is not an empty directory.
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Clonign repository from https://github.com/owolabigrace/hng-devops-stage1.git....
+Cloning into 'app'...
+Cloning repository...
+Using URL: https://github.com/owolabigrace/hng-devops-stage1.git
+fatal: destination path 'app' already exists and is not an empty directory.
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Clonign repository from https://github.com/owolabigrace/hng-devops-stage1.git....
+Cloning into 'app'...
+Cloning repository...
+Using URL: https://github.com/owolabigrace/hng-devops-stage1.git
+fatal: destination path 'app' already exists and is not an empty directory.
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Clonign repository from https://github.com/owolabigrace/hng-devops-stage1.git....
+Cloning into 'app'...
+Cloning repository...
+Using URL: https://github.com/owolabigrace/hng-devops-stage1.git
+fatal: destination path 'app' already exists and is not an empty directory.
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Clonign repository from https://github.com/owolabigrace/hng-devops-stage1.git....
+Cloning into 'app'...
+Cloning repository...
+Using URL: https://github.com/owolabigrace/hng-devops-stage1.git
+fatal: destination path 'app' already exists and is not an empty directory.
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Clonign repository from https://github.com/owolabigrace/hng-devops-stage1.git....
+Cloning into 'app'...
+Cloning repository...
+Using URL: https://github.com/owolabigrace/hng-devops-stage1.git
+fatal: destination path 'app' already exists and is not an empty directory.
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Clonign repository from https://github.com/owolabigrace/hng-devops-stage1.git....
+Cloning into 'app'...
+Cloning repository...
+Using URL: https://github.com/owolabigrace/hng-devops-stage1.git
+fatal: destination path 'app' already exists and is not an empty directory.
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Clonign repository from https://github.com/owolabigrace/hng-devops-stage1.git....
+Cloning into 'app'...
+Cloning repository...
+Using URL: https://github.com/owolabigrace/hng-devops-stage1.git
+fatal: destination path 'app' already exists and is not an empty directory.
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Clonign repository from https://github.com/owolabigrace/hng-devops-stage1.git....
+Cloning into 'app'...
+Enter your GitHub Personal Access Token: Enter branch name (default: main): Enter remote server username: Enter remote server IP: Enter path to SSH key file: Enter application port: Cloning repository...
+Old repo exists, removing...
+Cloning into 'app'...
+fatal: unable to access 'https:///': URL rejected: No host part in the URL
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Clonign repository from https://github.com/owolabigrace/hng-devops-stage1.git....
+Cloning into 'app'...
+Enter your GitHub Personal Access Token: Enter branch name (default: main): Enter remote server username: Enter remote server IP: Enter path to SSH key file: Enter application port: Cloning repository...
+Old repo exists, removing...
+Cloning into 'app'...
+Testing SSH connection...
+Connection timed out during banner exchange
+Connection to 98.91.249.14 port 22 timed out
+SSH connection failed
+=== HNG DevOps Stage 1 Automated Deployment Script ===
+Clonign repository from https://github.com/owolabigrace/hng-devops-stage1.git....
+Cloning into 'app'...
+Enter your GitHub Personal Access Token: Enter branch name (default: main): Enter remote server username: Enter remote server IP: Enter path to SSH key file: Enter application port: Cloning repository...
+Old repo exists, removing...
+Cloning into 'app'...
+Testing SSH connection...
+SSH connection successful
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Welcome to Ubuntu 24.04.3 LTS (GNU/Linux 6.14.0-1011-aws x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+ System information as of Tue Oct 21 23:04:16 UTC 2025
+
+  System load:  0.0               Processes:             112
+  Usage of /:   39.6% of 6.71GB   Users logged in:       0
+  Memory usage: 31%               IPv4 address for enX0: 10.0.0.6
+  Swap usage:   0%
+
+ * Ubuntu Pro delivers the most comprehensive open source security and
+   compliance features.
+
+   https://ubuntu.com/aws/pro
+
+Expanded Security Maintenance for Applications is not enabled.
+
+35 updates can be applied immediately.
+To see these additional updates run: apt list --upgradable
+
+1 additional security update can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+
+*** System restart required ***
+Hit:1 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble InRelease
+Get:2 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble-updates InRelease [126 kB]
+Get:3 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble-backports InRelease [126 kB]
+Get:4 http://security.ubuntu.com/ubuntu noble-security InRelease [126 kB]
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Get:5 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages [1530 kB]
+Get:6 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble-updates/main amd64 Components [175 kB]
+Get:7 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble-updates/universe amd64 Components [378 kB]
+Get:8 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble-updates/restricted amd64 Components [212 B]
+Get:9 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 Components [940 B]
+Get:10 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble-backports/main amd64 Components [7124 B]
+Get:11 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble-backports/universe amd64 Components [10.9 kB]
+Get:12 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble-backports/restricted amd64 Components [212 B]
+Get:13 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble-backports/multiverse amd64 Components [212 B]
+Get:14 http://security.ubuntu.com/ubuntu noble-security/main amd64 Packages [1249 kB]
+Get:15 http://security.ubuntu.com/ubuntu noble-security/main Translation-en [207 kB]
+Get:16 http://security.ubuntu.com/ubuntu noble-security/main amd64 Components [21.5 kB]
+Get:17 http://security.ubuntu.com/ubuntu noble-security/universe amd64 Packages [904 kB]
+Get:18 http://security.ubuntu.com/ubuntu noble-security/universe amd64 Components [52.3 kB]
+Get:19 http://security.ubuntu.com/ubuntu noble-security/restricted amd64 Packages [2041 kB]
+Get:20 http://security.ubuntu.com/ubuntu noble-security/restricted Translation-en [462 kB]
+Get:21 http://security.ubuntu.com/ubuntu noble-security/restricted amd64 Components [212 B]
+Get:22 http://security.ubuntu.com/ubuntu noble-security/multiverse amd64 Components [208 B]
+Fetched 7419 kB in 2s (3733 kB/s)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+30 packages can be upgraded. Run 'apt list --upgradable' to see them.
+Reading package lists...
+Building dependency tree...
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+Reading state information...
+docker.io is already the newest version (28.2.2-0ubuntu1~24.04.1).
+nginx is already the newest version (1.24.0-2ubuntu7.5).
+The following additional packages will be installed:
+  python3-compose python3-docker python3-dockerpty python3-docopt
+  python3-dotenv python3-texttable python3-websocket
+The following NEW packages will be installed:
+  docker-compose python3-compose python3-docker python3-dockerpty
+  python3-docopt python3-dotenv python3-texttable python3-websocket
+0 upgraded, 8 newly installed, 0 to remove and 30 not upgraded.
+Need to get 297 kB of archives.
+After this operation, 1589 kB of additional disk space will be used.
+Get:1 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble/universe amd64 python3-websocket all 1.7.0-1 [38.1 kB]
+Get:2 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble-updates/universe amd64 python3-docker all 5.0.3-1ubuntu1.1 [89.1 kB]
+Get:3 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble/universe amd64 python3-dockerpty all 0.4.1-5 [11.4 kB]
+Get:4 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble/universe amd64 python3-docopt all 0.6.2-6 [26.1 kB]
+Get:5 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble/universe amd64 python3-dotenv all 1.0.1-1 [22.3 kB]
+Get:6 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble/universe amd64 python3-texttable all 1.6.7-1 [11.0 kB]
+Get:7 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble/universe amd64 python3-compose all 1.29.2-6ubuntu1 [84.6 kB]
+Get:8 http://us-east-1.ec2.archive.ubuntu.com/ubuntu noble/universe amd64 docker-compose all 1.29.2-6ubuntu1 [14.0 kB]
+Fetched 297 kB in 0s (9820 kB/s)
+Selecting previously unselected package python3-websocket.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%debconf: unable to initialize frontend: Dialog
+debconf: (Dialog frontend will not work on a dumb terminal, an emacs shell buffer, or without a controlling terminal.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (This frontend requires a controlling tty.)
+debconf: falling back to frontend: Teletype
+dpkg-preconfigure: unable to re-open stdin: 
+(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 104534 files and directories currently installed.)
+Preparing to unpack .../0-python3-websocket_1.7.0-1_all.deb ...
+Unpacking python3-websocket (1.7.0-1) ...
+Selecting previously unselected package python3-docker.
+Preparing to unpack .../1-python3-docker_5.0.3-1ubuntu1.1_all.deb ...
+Unpacking python3-docker (5.0.3-1ubuntu1.1) ...
+Selecting previously unselected package python3-dockerpty.
+Preparing to unpack .../2-python3-dockerpty_0.4.1-5_all.deb ...
+Unpacking python3-dockerpty (0.4.1-5) ...
+Selecting previously unselected package python3-docopt.
+Preparing to unpack .../3-python3-docopt_0.6.2-6_all.deb ...
+Unpacking python3-docopt (0.6.2-6) ...
+Selecting previously unselected package python3-dotenv.
+Preparing to unpack .../4-python3-dotenv_1.0.1-1_all.deb ...
+Unpacking python3-dotenv (1.0.1-1) ...
+Selecting previously unselected package python3-texttable.
+Preparing to unpack .../5-python3-texttable_1.6.7-1_all.deb ...
+Unpacking python3-texttable (1.6.7-1) ...
+Selecting previously unselected package python3-compose.
+Preparing to unpack .../6-python3-compose_1.29.2-6ubuntu1_all.deb ...
+Unpacking python3-compose (1.29.2-6ubuntu1) ...
+Selecting previously unselected package docker-compose.
+Preparing to unpack .../7-docker-compose_1.29.2-6ubuntu1_all.deb ...
+Unpacking docker-compose (1.29.2-6ubuntu1) ...
+Setting up python3-dotenv (1.0.1-1) ...
+Setting up python3-texttable (1.6.7-1) ...
+Setting up python3-docopt (0.6.2-6) ...
+Setting up python3-websocket (1.7.0-1) ...
+Setting up python3-dockerpty (0.4.1-5) ...
+Setting up python3-docker (5.0.3-1ubuntu1.1) ...
+Setting up python3-compose (1.29.2-6ubuntu1) ...
+Setting up docker-compose (1.29.2-6ubuntu1) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+debconf: unable to initialize frontend: Dialog
+Pending kernel upgrade
+----------------------
+
+Newer kernel available
+
+The currently running kernel version is 6.14.0-1011-aws which is not the 
+expected kernel version 6.14.0-1014-aws.
+
+Restarting the system to load the new kernel will not be handled automatically, 
+so you should consider rebooting.
+
+debconf: (Dialog frontend will not work on a dumb terminal, an emacs shell buffer, or without a controlling terminal.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (This frontend requires a controlling tty.)
+debconf: falling back to frontend: Teletype
+
+Restarting services...
+
+Service restarts being deferred:
+ /etc/needrestart/restart.d/dbus.service
+ systemctl restart getty@tty1.service
+ systemctl restart networkd-dispatcher.service
+ systemctl restart serial-getty@ttyS0.service
+ systemctl restart systemd-logind.service
+ systemctl restart unattended-upgrades.service
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
+Synchronizing state of nginx.service with SysV service script with /usr/lib/systemd/systemd-sysv-install.
+Executing: /usr/lib/systemd/systemd-sysv-install enable nginx
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Welcome to Ubuntu 24.04.3 LTS (GNU/Linux 6.14.0-1011-aws x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+ System information as of Tue Oct 21 23:06:16 UTC 2025
+
+  System load:  0.09              Processes:             113
+  Usage of /:   39.7% of 6.71GB   Users logged in:       0
+  Memory usage: 31%               IPv4 address for enX0: 10.0.0.6
+  Swap usage:   0%
+
+ * Ubuntu Pro delivers the most comprehensive open source security and
+   compliance features.
+
+   https://ubuntu.com/aws/pro
+
+Expanded Security Maintenance for Applications is not enabled.
+
+35 updates can be applied immediately.
+1 of these updates is a standard security update.
+To see these additional updates run: apt list --upgradable
+
+1 additional security update can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+
+*** System restart required ***
+DEPRECATED: The legacy builder is deprecated and will be removed in a future release.
+            Install the buildx component to build images with BuildKit:
+            https://docs.docker.com/go/buildx/
+
+Sending build context to Docker daemon  111.1kB
+Step 1/3 : FROM nginx:alpine
+alpine: Pulling from library/nginx
+2d35ebdb57d9: Pulling fs layer
+f80aba050ead: Pulling fs layer
+621a51978ed7: Pulling fs layer
+03e63548f209: Pulling fs layer
+83ce83cd9960: Pulling fs layer
+e2d0ea5d3690: Pulling fs layer
+7fb80c2f28bc: Pulling fs layer
+76c9bcaa4163: Pulling fs layer
+03e63548f209: Waiting
+83ce83cd9960: Waiting
+e2d0ea5d3690: Waiting
+7fb80c2f28bc: Waiting
+76c9bcaa4163: Waiting
+621a51978ed7: Verifying Checksum
+621a51978ed7: Download complete
+f80aba050ead: Verifying Checksum
+f80aba050ead: Download complete
+2d35ebdb57d9: Verifying Checksum
+2d35ebdb57d9: Download complete
+03e63548f209: Verifying Checksum
+03e63548f209: Download complete
+83ce83cd9960: Verifying Checksum
+83ce83cd9960: Download complete
+e2d0ea5d3690: Verifying Checksum
+e2d0ea5d3690: Download complete
+7fb80c2f28bc: Verifying Checksum
+7fb80c2f28bc: Download complete
+76c9bcaa4163: Verifying Checksum
+76c9bcaa4163: Download complete
+2d35ebdb57d9: Pull complete
+f80aba050ead: Pull complete
+621a51978ed7: Pull complete
+03e63548f209: Pull complete
+83ce83cd9960: Pull complete
+e2d0ea5d3690: Pull complete
+7fb80c2f28bc: Pull complete
+76c9bcaa4163: Pull complete
+Digest: sha256:61e01287e546aac28a3f56839c136b31f590273f3b41187a36f46f6a03bbfe22
+Status: Downloaded newer image for nginx:alpine
+ ---> 5e7abcdd2021
+Step 2/3 : COPY . /usr/share/nginx/html
+ ---> d57e4994c144
+Step 3/3 : EXPOSE 80
+ ---> Running in fab52557af56
+ ---> Removed intermediate container fab52557af56
+ ---> 6dfb202c6522
+Successfully built 6dfb202c6522
+Successfully tagged myapp:latest
+ffe7d679aa20c1437fe50f10c30383007d44f6c7ff656ca0bad12bc011438bf6
+docker: Error response from daemon: failed to set up container networking: driver failed programming external connectivity on endpoint interesting_archimedes (a086185c0b6c76bbbae3d12a08fbcea0da2caa0f83c986a735d1bfc2d0a931f8): failed to bind host port for 0.0.0.0:80:172.17.0.2:3000/tcp: address already in use
+
+Run 'docker run --help' for more information
